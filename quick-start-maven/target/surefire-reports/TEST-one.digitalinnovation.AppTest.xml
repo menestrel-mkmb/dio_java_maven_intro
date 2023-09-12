@@ -3,7 +3,7 @@
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/test-classes:/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/classes:/home/michael/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="java.class.path" value="/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/test-classes:/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/classes:/home/michael/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/michael/.m2/repository/org/hibernate/validator/hibernate-validator/7.0.1.Final/hibernate-validator-7.0.1.Final.jar:/home/michael/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.0/jakarta.validation-api-3.0.0.jar:/home/michael/.m2/repository/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar:/home/michael/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar:/home/michael/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://openjdk.java.net/"/>
@@ -12,9 +12,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BR"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk/lib"/>
-    <property name="sun.java.command" value="/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/surefire/surefirebooter-20230911173232360_3.jar /run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/surefire 2023-09-11T17-32-32_261-jvmRun1 surefire-20230911173232360_1tmp surefire_0-20230911173232360_2tmp"/>
+    <property name="sun.java.command" value="/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/surefire/surefirebooter-20230912115123358_3.jar /run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/surefire 2023-09-12T11-51-23_247-jvmRun1 surefire-20230912115123358_1tmp surefire_0-20230912115123358_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/test-classes:/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/classes:/home/michael/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="surefire.test.class.path" value="/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/test-classes:/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/classes:/home/michael/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/michael/.m2/repository/org/hibernate/validator/hibernate-validator/7.0.1.Final/hibernate-validator-7.0.1.Final.jar:/home/michael/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.0/jakarta.validation-api-3.0.0.jar:/home/michael/.m2/repository/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar:/home/michael/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar:/home/michael/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/michael"/>
     <property name="user.language" value="pt"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/surefire/surefirebooter-20230911173232360_3.jar"/>
+    <property name="surefire.real.class.path" value="/run/media/michael/0f2aa2e1-3c41-4c49-93d7-2a7123ae9756/projects/dio_java_maven_intro/quick-start-maven/target/surefire/surefirebooter-20230912115123358_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.8.1+1"/>
     <property name="user.name" value="michael"/>
@@ -51,5 +51,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testApp" classname="one.digitalinnovation.AppTest" time="0.002"/>
+  <testcase name="testApp" classname="one.digitalinnovation.AppTest" time="0.001"/>
 </testsuite>
